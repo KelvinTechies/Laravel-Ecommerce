@@ -1,0 +1,33 @@
+#myOwn{
+    width:250px;
+    height:200px;
+    /* border:2px solid red; */
+}
+
+#myOwn img{
+    width:100%;
+    height:100%;
+}
+#ownBx{
+    width:150px;
+    height:150px;
+    object-fit:cover;
+    object-position:center;
+}
+
+#ownBx img{
+    width:100%;
+    height:100%;
+}
+
+#mydiv{
+    width:270px;
+    height:200px;
+    object-fit:cover;
+    object-position:center;
+}
+
+#mydiv img{
+    width:100%;
+    height:100%;
+}
